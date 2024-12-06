@@ -1,0 +1,141 @@
+
+
+
+
+
+fieldset{
+    background: darkblue;
+ }
+ h1{
+    color:yellow;
+    margin-top: 10px;
+ }
+ p{
+    color:yellow;
+ }
+ fieldset{
+    width: 500px;
+    margin-left: 450px;
+    height: 700px;
+    border-radius: 30px;
+ }
+ .ff{
+    margin-left: 70px ;
+    height: 30px;
+    border-radius: 10px;
+ }
+ div{
+    margin-left: 10px;
+  
+ }
+ .dd{
+    height: 30px;
+    border-radius: 10px;
+ }
+ .ii{
+    height: 30px;
+    border-radius: 10px;
+    width: 100%;
+ }
+ .aa{
+    height: 30px;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 10px;
+ 
+ }
+ b{
+    color: black;
+ }
+ .yy{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+ }
+ select{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+   margin-left: 5px;
+ 
+ }
+ #ee{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    margin-right: 5px;
+ }
+ 
+ 
+ .nn{
+    width: 60px;
+    height: 20px;
+    border-radius:0px;
+ 
+ }
+ .oo{
+    width: 60px;
+    height: 20px;
+    border-radius:0px;
+ 
+ }
+ .ll{
+    width: 60px;
+    height: 20px;
+    border-radius:10px;
+ 
+ }
+ .mm{
+    font-size: large;
+  
+    font-weight: 900;
+ }
+ .er{
+    align-items: center;
+    align-content: center;
+    margin-left: 40%;
+    margin-top: 50px;
+    
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+ }
+ .er:hover{
+   
+    background:rgb(123, 255, 0);
+ }
+ .t{
+    background: white;
+    width: 90px;
+    height: 20px;
+    border: 2px solid rgb(241, 231, 231);
+    border-radius: 5px;
+ }
+ .z{
+    background: white;
+    margin-left: 100px;
+    height: 70px;
+    width: 90px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+ }
+    
+ .x{
+   
+    background: white;
+    margin-left: 100px;
+    height: 50px;
+    width: 100px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+ }
+    
+
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
